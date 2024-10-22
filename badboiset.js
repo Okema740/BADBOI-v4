@@ -11,19 +11,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140xxxxxx"
-global.ownername = "🤴𝓚𝓘𝓝𝓖 ℬ𝓐𝓓ℬ𝓞𝓘"
-global.ytname = "YT: BADBOI"
+global.ownernomer = "256761396309"
+global.ownername = "babyfx"
+global.ytname = "YT: baby"
 global.socialm = "GitHub: BADBOI-v1"
 global.location = "Nigeria, Ogun-state, ilese"
 
-global.ownernumber = '2348140xxxxxx'  //creator number
-global.ownername = '🤴𝓚𝓘𝓝𝓖 ℬ𝓐𝓓ℬ𝓞𝓘' //owner name
-global.botname = 'ℬ𝓐𝓓ℬ𝓞𝓘-V4ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '256761396309'  //creator number
+global.ownername = 'babyfx' //owner name
+global.botname = 'favor' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'BADBOI\n\nContact: +2348140825959'
+global.author = 'favor\n\nContact: +256761396306'
 
 //console view/theme
 global.themeemoji = '☠️'
